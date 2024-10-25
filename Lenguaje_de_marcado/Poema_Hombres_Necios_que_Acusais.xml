@@ -24,7 +24,7 @@
             <div type="poem">
                 <head>Hombres necios que acusáis</head>
                 <lg> <!-- Indica grupo de líneas de versos, poemas-->
-                    <lg id="estrofa1">
+    <lg id="estrofa1">
     <l id="hombres-necios">Hombres necios que acusáis</l>
     <l id="a-la-mujer">a la mujer sin razón</l>
     <l id="sin-ver">sin ver que sois la ocasión</l>
