@@ -24,60 +24,61 @@
             <div type="poem">
                 <head>Hombres necios que acusáis</head>
                 <lg> <!-- Indica grupo de líneas de versos, poemas-->
-                    <l>Hombres necios que acusáis</l> <!-- Línea del poema-->
-                    <l>a la mujer sin razón</l>
-                    <l>sin ver que sois la ocasión</l>
-                    <l>de lo mismo que culpáis:</l>
-                </lg>
-                <lg>
-                    <l>si con ansia sin igual</l>
-                    <l>solicitáis su desdén</l>
-                    <l>¿por qué queréis que obren bien</l>
-                    <l>si las incitáis al mal?</l>
-                </lg>
-                <lg>
-                    <l>Combatís su resistencia</l>
-                    <l>y luego, con gravedad,</l>
-                    <l>decís que fue liviandad</l>
-                    <l>lo que hizo la diligencia.</l>
-                </lg>
-                <lg>
-                    <l>Parecer quiere el denuedo</l>
-                    <l>de vuestro parecer loco</l>
-                    <l>al niño que pone el coco</l>
-                    <l>y luego le tiene miedo.</l>
-                </lg>
-                <lg>
-                    <l>Queréis, con presunción necia,</l>
-                    <l>hallar a la que buscáis,</l>
-                    <l>para pretendida, Thais,</l>
-                    <l>y en la posesión, Lucrecia.</l>
-                </lg>
-                <lg>
-                    <l>¿Qué humor puede ser más raro</l>
-                    <l>que el que, falto de consejo,</l>
-                    <l>él mismo empaña el espejo</l>
-                    <l>y siente que no esté claro?</l>
-                </lg>
-                <lg>
-                    <l>Con el favor y el desdén</l>
-                    <l>tenéis condición igual,</l>
-                    <l>quejándoos, si os tratan mal,</l>
-                    <l>burlándoos, si os quieren bien.</l>
-                </lg>
-                <lg>
-                    <l>Opinión, ninguna gana;</l>
-                    <l>pues la que más se recata,</l>
-                    <l>si no os admite, es ingrata,</l>
-                    <l>y si os admite, es liviana.</l>
-                </lg>
-                <lg>
-                    <l>Siempre tan necios andáis</l>
-                    <l>que, con desigual nivel,</l>
-                    <l>a una culpáis por crüel</l>
-                    <l>y otra por fácil culpáis.</l>
-                </lg>
-                <lg>
+                    <lg id="estrofa1">
+    <l id="hombres-necios">Hombres necios que acusáis</l>
+    <l id="a-la-mujer">a la mujer sin razón</l>
+    <l id="sin-ver">sin ver que sois la ocasión</l>
+    <l id="de-lo-que-culpais">de lo mismo que culpáis:</l>
+</lg>
+<lg id="estrofa2">
+    <l id="ansia-igual">si con ansia sin igual</l>
+    <l id="solicitais">solicitáis su desdén</l>
+    <l id="por-que-bien">¿por qué queréis que obren bien</l>
+    <l id="incitais-mal">si las incitáis al mal?</l>
+</lg>
+<lg id="estrofa3">
+    <l id="combatir-resistencia">Combatís su resistencia</l>
+    <l id="gravedad">y luego, con gravedad,</l>
+    <l id="livianidad">decís que fue liviandad</l>
+    <l id="diligencia">lo que hizo la diligencia.</l>
+</lg>
+<lg id="estrofa4">
+    <l id="parecer-quiere">Parecer quiere el denuedo</l>
+    <l id="parecer-loco">de vuestro parecer loco</l>
+    <l id="nino-coco">al niño que pone el coco</l>
+    <l id="miedo">y luego le tiene miedo.</l>
+</lg>
+<lg id="estrofa5">
+    <l id="presuncion-necia">Queréis, con presunción necia,</l>
+    <l id="buscar-hallar">hallar a la que buscáis,</l>
+    <l id="pretendida-thais">para pretendida, Thais,</l>
+    <l id="posesion-lucrecia">y en la posesión, Lucrecia.</l>
+</lg>
+<lg id="estrofa6">
+    <l id="humor-raro">¿Qué humor puede ser más raro</l>
+    <l id="falto-consejo">que el que, falto de consejo,</l>
+    <l id="empena-espejo">él mismo empaña el espejo</l>
+    <l id="no-claro">y siente que no esté claro?</l>
+</lg>
+<lg id="estrofa7">
+    <l id="favor-desden">Con el favor y el desdén</l>
+    <l id="condicion-igual">tenéis condición igual,</l>
+    <l id="queja-tratan-mal">quejándoos, si os tratan mal,</l>
+    <l id="burlan-bien">burlándoos, si os quieren bien.</l>
+</lg>
+<lg id="estrofa8">
+    <l id="opinion-gana">Opinión, ninguna gana;</l>
+    <l id="recata-admite">pues la que más se recata,</l>
+    <l id="ingrata">si no os admite, es ingrata,</l>
+    <l id="admite-liviana">y si os admite, es liviana.</l>
+</lg>
+<lg id="estrofa9">
+    <l id="necios-andais">Siempre tan necios andáis</l>
+    <l id="nivel-desigual">que, con desigual nivel,</l>
+    <l id="cruel">a una culpáis por crüel</l>
+    <l id="facil-culpais">y otra por fácil culpáis.</l>
+ </lg>
+<lg>
                     <l>¿Pues cómo ha de estar templada</l>
                     <l>la que vuestro amor pretende</l>
                     <l>si la que es ingrata, ofende,</l>
