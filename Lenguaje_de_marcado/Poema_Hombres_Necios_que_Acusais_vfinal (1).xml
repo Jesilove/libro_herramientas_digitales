@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="esquema_prueba.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> <!-- Elemento raíz -->
+    <teiHeader> <!-- Encabezado con metadatos -->
+        <fileDesc> <!-- Descripción del archivo -->
+            <titleStmt> <!-- Declaración del título -->
+                <title>Hombres necios que acusáis</title>
+                <author>Juana Inés de la Cruz</author>
+            </titleStmt>
+            <publicationStmt> <!-- Declaración de publicación -->
+                <p>Publicado bajo licencia Creative Commons</p>
+            </publicationStmt>
+            <sourceDesc> <!-- Descripción de la fuente -->
+                <bibl>
+                    <date>1689</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc> <!-- Fin de la descripción del archivo -->
+    </teiHeader> <!-- Fin del encabezado -->
+    <text> <!-- Comienzo del texto -->
+        <body>
+            <div type="poem">
+                <head>Hombres necios que acusáis</head>
+                <lg id="estrofa1"> <!-- Estrofa 1 -->
+                    <l xml:id="L1">Hombres necios que acusáis<rhyme label="áis">áis</rhyme></l>
+                    <l xml:id="L2">a la mujer sin razón<rhyme label="ón">ón</rhyme></l>
+                    <l xml:id="L3">sin ver que sois la ocasión<rhyme label="ón">ón</rhyme></l>
+                    <l xml:id="L4">de lo mismo que culpáis<rhyme label="áis">áis</rhyme></l>
+                </lg> <!-- Fin Estrofa 1 -->
+                <lg id="estrofa2"> <!-- Estrofa 2 -->
+                    <l xml:id="L5">si con ansia sin igual<rhyme label="al">al</rhyme></l>
+                    <l xml:id="L6">solicitáis su desdén<rhyme label="én">én</rhyme></l>
+                    <l xml:id="L7">¿por qué queréis que obren bien<rhyme label="én">én</rhyme></l>
+                    <l xml:id="L8">si las incitáis al mal?<rhyme label="al">al</rhyme></l>
+                </lg> <!-- Fin Estrofa 2 -->
+                <lg id="estrofa3"> <!-- Estrofa 3 -->
+                    <l xml:id="L9">Combatís su resistencia<rhyme label="ia">ia</rhyme></l>
+                    <l xml:id="L10">y luego, con gravedad,<rhyme label="ad">ad</rhyme></l>
+                    <l xml:id="L11">decís que fue liviandad<rhyme label="ad">ad</rhyme></l>
+                    <l xml:id="L12">lo que hizo la diligencia.<rhyme label="ia">ia</rhyme></l>
+                </lg> <!-- Fin Estrofa 3 -->
+                <lg id="estrofa4"> <!-- Estrofa 4 -->
+                    <l xml:id="L13">Parecer quiere el denuedo<rhyme label="edo">edo</rhyme></l>
+                    <l xml:id="L14">de vuestro parecer loco<rhyme label="oco">oco</rhyme></l>
+                    <l xml:id="L15">al niño que pone el coco<rhyme label="oco">oco</rhyme></l>
+                    <l xml:id="L16">y luego le tiene miedo.<rhyme label="edo">edo</rhyme></l>
+                </lg> <!-- Fin Estrofa 4 -->
+                <lg id="estrofa5"> <!-- Estrofa 5 -->
+                    <l xml:id="L17">Queréis, con presunción necia,<rhyme label="ia">ia</rhyme></l>
+                    <l xml:id="L18">hallar a la que buscáis,<rhyme label="áis">áis</rhyme></l>
+                    <l xml:id="L19">para pretendida, Thais,<rhyme label="áis">áis</rhyme></l>
+                    <l xml:id="L20">y en la posesión, Lucrecia.<rhyme label="ia">ia</rhyme></l>
+                </lg> <!-- Fin Estrofa 5 -->
+                <lg id="estrofa6"> <!-- Estrofa 6 -->
+                    <l xml:id="L21">¿Qué humor puede ser más raro<rhyme label="aro">aro</rhyme></l>
+                    <l xml:id="L22">que el que, falto de consejo,<rhyme label="ejo">ejo</rhyme></l>
+                    <l xml:id="L23">él mismo empaña el espejo<rhyme label="ejo">ejo</rhyme></l>
+                    <l xml:id="L24">y siente que no esté claro?<rhyme label="aro">aro</rhyme></l>
+                </lg> <!-- Fin Estrofa 6 -->
+                <lg id="estrofa7"> <!-- Estrofa 7 -->
+                    <l xml:id="L25">Con el favor y el desdén<rhyme label="én">én</rhyme></l>
+                    <l xml:id="L26">tenéis condición igual,<rhyme label="al">al</rhyme></l>
+                    <l xml:id="L27">quejándoos, si os tratan mal,<rhyme label="al">al</rhyme></l>
+                    <l xml:id="L28">burlándoos, si os quieren bien.<rhyme label="én">én</rhyme></l>
+                </lg> <!-- Fin Estrofa 7 -->
+                <lg id="estrofa8"> <!-- Estrofa 8 -->
+                    <l xml:id="L29">Opinión, ninguna gana;<rhyme label="ana">ana</rhyme></l>
+                    <l xml:id="L30">pues la que más se recata,<rhyme label="ata">ata</rhyme></l>
+                    <l xml:id="L31">si no os admite, es ingrata,<rhyme label="ata">ata</rhyme></l>
+                    <l xml:id="L32">y si os admite, es liviana.<rhyme label
+                    <lg> <!--Fin Estrofa 8 -->
+                     <lg id="estrofa9"> <!-- Estrofa 9 -->
+                    <l xml:id="L33">Siempre tan necios andáis<rhyme label="áis">áis</rhyme></l>
+                    <l xml:id="L34">que, con desigual nivel,<rhyme label="el">el</rhyme></l>
+                    <l xml:id="L35">a una culpáis por crüel<rhyme label="el">el</rhyme></l>
+                    <l xml:id="L36">y otra por fácil culpáis.<rhyme label="áis">áis</rhyme></l>
+                </lg> <!--Fin Estrofa 9 -->
+
+                <lg id="estrofa10"> <!--Estrofa 10-->
+                    <l xml:id="L37">¿Pues cómo ha de estar templada<rhyme label="ada">ada</rhyme></l>
+                    <l xml:id="L38">la que vuestro amor pretende,<rhyme label="ende">ende</rhyme></l>
+                    <l xml:id="L39">si la que es ingrata, ofende,<rhyme label="ende">ende</rhyme></l>
+                    <l xml:id="L40">y la que es fácil, enfada?<rhyme label="ada">ada</rhyme></l>
+                </lg> <!--Fin Estrofa 10 -->
+
+
+                <lg id="estrofa11"> <!--Estrofa 11 -->
+                    <l xml:id="L41">Mas, entre el enfado y pena<rhyme label="ena">ena</rhyme></l>
+                    <l xml:id="L42">que vuestro gusto refiere,<rhyme label="ere">ere</rhyme></l>
+                    <l xml:id="L43">bien haya la que no os quiere<rhyme label="ere">ere</rhyme></l>
+                    <l xml:id="L44">y quejáos en hora buena.<rhyme label="ena">ena</rhyme></l>
+                </lg> <!--Fin Estrofa 11-->
+
+                <lg id="estrofa12"> <!--Estrofa 12-->
+                    <l xml:id="L45">Dan vuestras amantes penas<rhyme label="enas">enas</rhyme></l>
+                    <l xml:id="L46">a sus libertades alas,<rhyme label="alas">alas</rhyme></l>
+                    <l xml:id="L47">y después de hacerlas malas<rhyme label="alas">alas</rhyme></l>
+                    <l xml:id="L48">las queréis hallar muy buenas.<rhyme label="enas">enas</rhyme></l>
+                </lg> <!--Fin Estrofa 12-->
+
+                <lg id="estrofa13"> <!--Estrofa 13-->
+                    <l xml:id="L49">¿Cuál mayor culpa ha tenido<rhyme label="ido">ido</rhyme></l>
+                    <l xml:id="L50">en una pasión errada:<rhyme label="ada">ada</rhyme></l>
+                    <l xml:id="L51">la que cae de rogada,<rhyme label="ada">ada</rhyme></l>
+                    <l xml:id="L52">o el que ruega de caído?<rhyme label="ido">ido</rhyme></l>
+                </lg> <!--Fin Estrofa 13-->
+
+                <lg id="estrofa14"> <!--Estrofa 14-->
+                    <l xml:id="L53">¿O cuál es más de culpar,<rhyme label="ar">ar</rhyme></l>
+                    <l xml:id="L54">aunque cualquiera mal haga:<rhyme label="aga">aga</rhyme></l>
+                    <l xml:id="L55">la que peca por la paga,<rhyme label="aga">aga</rhyme></l>
+                    <l xml:id="L56">o el que paga por pecar?<rhyme label="ar">ar</rhyme></l>
+                </lg> <!--Fin Estrofa 14-->
+
+                <lg id="estrofa15"> <!--Estrofa 15-->
+                    <l xml:id="L57">Pues ¿para qué os espantáis<rhyme label="áis">áis</rhyme></l>
+                    <l xml:id="L58">de la culpa que tenéis?<rhyme label="éis">éis</rhyme></l>
+                    <l xml:id="L59">Queredlas cual las hacéis<rhyme label="éis">éis</rhyme></l>
+                    <l xml:id="L60">o hacedlas cual las buscáis.<rhyme label="áis">áis</rhyme></l>
+                </lg> <!--Fin Estrofa 15-->
+
+                <lg id="estrofa16"> <!--Estrofa 16 -->
+                    <l xml:id="L61">Dejad de solicitar,<rhyme label="ar">ar</rhyme></l>
+                    <l xml:id="L62">y después con más razón<rhyme label="ón">ón</rhyme></l>
+                    <l xml:id="L63">acusaréis la afición<rhyme label="ón">ón</rhyme></l>
+                    <l xml:id="L64">de la que os fuere a rogar.<rhyme label="ar">ar</rhyme></l>
+                </lg> <!--Fin Estrofa 16 -->
+
+                <lg id="estrofa17"> <!--Estrofa 17 -->
+                    <l xml:id="L65">Bien con muchas armas fundo<rhyme label="undo">undo</rhyme></l>
+                    <l xml:id="L66">que lidia vuestra arrogancia,<rhyme label="ancia">ancia</rhyme></l>
+                    <l xml:id="L67">pues en promesa e instancia<rhyme label="ancia">ancia</rhyme></l>
+                    <l xml:id="L68">juntáis diablo, carne y mundo.<rhyme label="undo">undo</rhyme></l>
+                </lg> <!--Fin Estrofa 17 -->
+            </div>
+        </body>
+    </text> <!-- Fin del texto -->
+</TEI> <!-- etiqueta de cierre del elemento raíz -->
