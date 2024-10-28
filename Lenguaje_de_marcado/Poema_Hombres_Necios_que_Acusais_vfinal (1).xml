@@ -3,6 +3,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0"> <!-- Elemento raíz -->
     <teiHeader> <!-- Encabezado con metadatos -->
         <fileDesc> <!-- Descripción del archivo -->
+            <titleStmt>
+                <editor n=1>De Palma Jesica</editor>
+                <editor n=2>Maese Facundo</editor>
+                <editor n=3>Suarez Edith</editor>
             <titleStmt> <!-- Declaración del título -->
                 <title>Hombres necios que acusáis</title>
                 <author>Juana Inés de la Cruz</author>
