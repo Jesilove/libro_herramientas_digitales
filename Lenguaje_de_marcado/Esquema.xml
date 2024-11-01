@@ -1,43 +1,31 @@
-<poem>
-   <?xml version="1.0" encoding="UTF-8"?>
-   <?xml-model href="esquema_prueba.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-   <TEI xmlns="http://www.tei-c.org/ns/1.0">
-      <teiHeader>
-         <fileDesc>
+<TEI>
+    <teiHeader>
+        <fileDesc>
             <titleStmt>
-               <title>...</title>
-               <author>...</author>
+                <editor/>
+                <title/>
+                <author/>
             </titleStmt>
             <publicationStmt>
-               <p>...</p>
+                <p/>
             </publicationStmt>
             <sourceDesc>
-               <bibl>
-                  <date>...</date>
-               </bibl>
+                <bibl>
+                    <date/>
+                </bibl>
             </sourceDesc>
-         </fileDesc>
-      </teiHeader>
-      <text>
-         <body>
-            <div type="poem">
-               <head>...</head>
-               <lg>
-                  <l xml:id="L1">...</l>
-                  <l xml:id="L2">...</l>
-                  <l xml:id="L3">...</l>
-                  <l xml:id="L4">...</l>
-               </lg>
-               <lg>
-                  <l xml:id="L5">...</l>
-                  <l xml:id="L6">...</l>
-                  <l xml:id="L7">...</l>
-                  <l xml:id="L8">...</l>
-               </lg>
-               <!-- Más grupos de <lg> con etiquetas <l> para cada línea de poema -->
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head/>
+                <lg>
+                    <l>
+                        <rhyme/>
+                    </l>
+                </lg>
             </div>
-         </body>
-      </text>
-   </TEI>
-</poem>
+        </body>
+    </text>
+</TEI>
